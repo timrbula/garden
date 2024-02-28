@@ -1,4 +1,6 @@
-# Infinite Hedonism Machines
+---
+title: Infinite Hedonism Machines
+---
 
 > So there are lots of ways to answer this question. But my favorite way to think about this, and I know you’re going to be familiar with this, is a famous thought experiment by the philosopher Robert Nozick, who imagines an experience machine, which now everyone knows as the Matrix. They plug you in, and you’re in paradise. You have immediately lost your memory that you’re plugged in. So, you think you’re living your real life, but you are living a life of immense satisfaction, and challenge, and accomplishment, and carnal joy, and deep respect and everything; the best life possible.
 >

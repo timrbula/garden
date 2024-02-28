@@ -1,4 +1,6 @@
-# Digital Garden
+---
+title: Digital Garden
+---
 
 I've long been a follower of Maggie Appleton. I recall reading Digital Garden [blog post](https://maggieappleton.com/garden-history) years ago and was inspired by it. Well, at least I thought I wanted to be the person attended to digital garden. Or perhaps, more truthfully, it was more of a second order desire thing. I wanted to want to be that person. Nevertheless, I have toyed around and explored various tools over the years for writing, tracking, memorializing and cataloging my life. A non-exhaustive list includes:
 
