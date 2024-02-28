@@ -1,6 +1,6 @@
 ---
 title: You are going to die
-date: 2021-26-10
+date: 2021-10-26
 ---
 
 > You are going to die
